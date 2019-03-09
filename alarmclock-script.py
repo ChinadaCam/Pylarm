@@ -38,10 +38,12 @@ def main():
     
 
     def Clock():
-        rep=0 # number of times sound repeat (0-4, 5 for no sound)
+         
         print("\033[H\033[J")
         hour= int(input("Insert the hour(1-24 | 00 format): "))
-        minute=int(input("Insert the minutes(1-59) 00 format: "))
+        minute=int(input("Insert the minutes(1-59 | 00 format): "))
+        rep=int(input("Number of times sound repeat ( 0 for no sound): "))
+        repc=0 #counter
         print("\033[H\033[J")
         print("TIK TOK")
         print("ctrl+c to terminate")
@@ -51,13 +53,17 @@ def main():
                 
                         
                     while True: #Alarm Sound with windows
+                        repc+=1
                         winsound.Beep(frequency, duration)
                         time.sleep(1)
-                        rep+=1
-                        if(rep>=5):
+                        print("ALARM")
+                        if(repc>=rep):
+                            time.sleep(2)
+                            Start()
                             break
                     break
-                    print("ALARM")
+                    
+                    
                 
 
             except ValueError:
