@@ -25,7 +25,7 @@
 
 ## Author
 
-👤 **TtIIago Faustinoo**
+👤 **Tiago Faustino**
 
 * Twitter: [@fuckingfaustino](https://twitter.com/fuckingfaustino)
 * Github: [@ChinadaCamm](https://github.com/ChinadaCamm)
