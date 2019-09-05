@@ -6,6 +6,7 @@ from tkinter import messagebox
 
 
 
+
 #vars
 
 frequency = 3000  # Set Frequency To 2500 Hertz  
@@ -42,8 +43,11 @@ def Clock(minute,hour):
             
         except ValueError:
             messagebox.showerror("Error","Insert a valid value")
+        except Exception as e:
+            messagebox.showerror("Error ", str(e))
+            print("Error: " + str(e))
             
-      
+   
     
 
 
