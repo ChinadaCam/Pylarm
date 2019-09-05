@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to        PPyyalarm 👋</h1>
+<h1 align="center">Welcome to        Pylarm 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.4-blue.svg?cacheSeconds=2592000" />
   <a href=" https://github.com/ChinadaCam/Pylarm">
@@ -12,14 +12,15 @@
   </a>
 </p>
 
-> AaLARM MADE IN PYTHON
+> Simple alarm made in python
 
 ### 🏠 [Homepage](https://github.com/ChinadaCam/Pylarm)
 
 ## Usage
 
 ```sh
-Open  Progrr
+  Open pylarm.exe
+  Set what time you want it to ring and wait
 ```
 
 ## Author
@@ -38,4 +39,3 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
