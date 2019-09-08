@@ -19,8 +19,21 @@
 ## Usage
 
 ```sh
-  Open pylarm.exe
   Set what time you want it to ring and wait
+  
+  HOW TO USE:
+  
+  ```
+  ```python
+  open with
+  python Pylarm.py 
+  ```
+  
+```sh
+  then choose the option "1. Set Alarm"
+  Choose between 1 and 24 hours (use a 0 before single numbers e.g: 04, 06)
+  Choose between 1 and 59 minutes (use a 0 before single numbers e.g: 04, 06)
+  now wait 😀
 ```
 
 ## Author
