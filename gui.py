@@ -118,6 +118,7 @@ class MainMenu(tk.Frame):
         self.grid()
         self.create_widgets()
 
+    #start widgets
     def create_widgets(self):
         self.credits = tk.Button(self, text="See Credits", command=self.create_window_credits)
         self.alarm = tk.Button(self, text="Set Alarm", command=self.create_window_alarm)
@@ -145,4 +146,8 @@ def main():
     root = tk.Tk()
     mainapp = MainMenu(master=root)
     mainapp.mainloop()
-main()
+
+
+
+if __name__ == "__main__":
+    main()
