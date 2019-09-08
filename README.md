@@ -25,7 +25,7 @@ Step 1: Choose "Set Alarm"
   
 ![Step1](https://user-images.githubusercontent.com/20567276/64494914-bfff2500-d28a-11e9-89b6-c7464a007347.png)
 
-Step 2: ⚠️(Careful: use a 0 before single numbers e.g: 04, 06)⚠️
+Step 2: ⚠️Careful: use a 0 before single numbers e.g: 04, 06 and it´s 24 format⚠️
 
 ![Step2](https://user-images.githubusercontent.com/20567276/64494915-c097bb80-d28a-11e9-8663-feb533ba9856.png)
 
@@ -40,7 +40,7 @@ Step 3:  It rings and get back to the GUI
 * Twitter: [@fuckingfaustino](https://twitter.com/fuckingfaustino)
 * Github: [@ChinadaCamm](https://github.com/ChinadaCamm)
 
-![Step4](https://user-images.githubusercontent.com/20567276/64494917-c097bb80-d28a-11e9-9b76-0cec19ad4ace.png)
+
 
 
 ## Contributors:
@@ -48,6 +48,7 @@ Step 3:  It rings and get back to the GUI
 👩‍💼 **Catarina Bento
 
 * Github: [@Catarinab](https://github.com/Catarinab)
+![Step4](https://user-images.githubusercontent.com/20567276/64494917-c097bb80-d28a-11e9-9b76-0cec19ad4ace.png)
 
 ## 🤝 Contributing
 
