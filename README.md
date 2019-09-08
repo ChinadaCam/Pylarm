@@ -19,7 +19,8 @@
 ## Usage
 
 
-
+Run script with python Pylarm.py
+     
 
 Step 1: Choose "Set Alarm"
   
