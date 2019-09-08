@@ -18,17 +18,20 @@
 
 ## Usage
 
-Step 1:
 
-![Step1](https://user-images.githubusercontent.com/20567276/64488808-23199900-d244-11e9-9f88-92c9ad5510ff.png)
 
-Step 2:
 
-![Step2](https://user-images.githubusercontent.com/20567276/64488809-23b22f80-d244-11e9-89d2-74a452e5bc21.png)
+Step 1: Choose "Set Alarm"
+  
+![Step1](https://user-images.githubusercontent.com/20567276/64494914-bfff2500-d28a-11e9-89b6-c7464a007347.png)
 
-Step 3: ⚠️(Careful: use a 0 before single numbers e.g: 04, 06)⚠️
+Step 2: ⚠️(Careful: use a 0 before single numbers e.g: 04, 06)⚠️
 
-![Step3](https://user-images.githubusercontent.com/20567276/64488810-23b22f80-d244-11e9-8883-fa239897b02b.png)
+![Step2](https://user-images.githubusercontent.com/20567276/64494915-c097bb80-d28a-11e9-8663-feb533ba9856.png)
+
+Step 3:  It rings and get back to the GUI
+
+![Step3](https://user-images.githubusercontent.com/20567276/64494916-c097bb80-d28a-11e9-86e4-e5bb6a7b5256.png)
 
 ## Author
 
@@ -36,6 +39,9 @@ Step 3: ⚠️(Careful: use a 0 before single numbers e.g: 04, 06)⚠️
 
 * Twitter: [@fuckingfaustino](https://twitter.com/fuckingfaustino)
 * Github: [@ChinadaCamm](https://github.com/ChinadaCamm)
+
+![Step4](https://user-images.githubusercontent.com/20567276/64494917-c097bb80-d28a-11e9-9b76-0cec19ad4ace.png)
+
 
 ## Contributors:
 
