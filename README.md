@@ -37,6 +37,12 @@ Step 3: ⚠️(Careful: use a 0 before single numbers e.g: 04, 06)⚠️
 * Twitter: [@fuckingfaustino](https://twitter.com/fuckingfaustino)
 * Github: [@ChinadaCamm](https://github.com/ChinadaCamm)
 
+## Contributors:
+
+👩‍💼 **Catarina Bento
+
+* Github: [@Catarinab](https://github.com/Catarinab)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ChinadaCam/Pylarm/issues).
@@ -50,4 +56,4 @@ Give a ⭐️ if this project helped you!
 
 ## What have I learned
 
-I´v learned how to read json files and how to use exceptions in a better way
+I've learned how to read json files and how to use exceptions in a better way
