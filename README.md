@@ -39,7 +39,7 @@ Step 3:  It rings and get back to the GUI
 👤 **Tiago Faustino**
 
 * Twitter: [@fuckingfaustino](https://twitter.com/fuckingfaustino)
-* Github: [@ChinadaCamm](https://github.com/ChinadaCamm)
+* Github: [@ChinadaCam](https://github.com/ChinadaCam)
 
 
 
