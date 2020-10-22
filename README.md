@@ -5,7 +5,7 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/fuckingfaustino">
     <img alt="Twitter: fuckingfaustino" src="https://img.shields.io/twitter/follow/fuckingfaustino.svg?style=social" target="_blank" />
